@@ -1,9 +1,6 @@
 # FdF
   A map visualization interface
 
-## demo
-  <img src="fdf_demo.png" width="500"></img>
-
 ## Built with
   C language, Mlx library
 
