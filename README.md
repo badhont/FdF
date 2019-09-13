@@ -12,7 +12,7 @@
   - Compile it with `make`
 
 ## Make it work
-  - Find a map in the `map/` directory
+  - Find a map in the `maps/` directory
   - Run `./fdf [map]`
   - Make your own map<br/>
   exemple :
