@@ -12,9 +12,9 @@
   - Compile it with `make`
 
 ## Make it work
-  - Find a test file in the `test/` directory
+  - Find a map in the `map/` directory
   - Run `./fdf [map]`
-  - Make your own test map<br/>
+  - Make your own map<br/>
   exemple :
 ```
 0 0 0 0 1 0 0 0
